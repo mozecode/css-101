@@ -1,1 +1,23 @@
 body{background-color: orange;}
+
+#playground {border:5px dotted black; color:blue;}
+
+.child {background-color: slategrey;}
+
+li {border-bottom: 3px solid tomato;}
+
+#playground>h1{color:purple
+	;}
+
+.child ~p {background-color: green;}
+
+#playground 
+	{display:none;}
+
+h1
+{font-family: 'Barrio', cursive;}
+
+
+
+
+
